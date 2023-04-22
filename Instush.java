@@ -104,7 +104,6 @@ public class Instush {
 	 * @return the average of all the RGB values of the image
 	 */
 	public static double average(Color[][] image) {
-		// Replace the following statement with your code
 		return 0.0;
 	}
 
